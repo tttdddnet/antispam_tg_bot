@@ -1,5 +1,4 @@
 import telebot
-import re
 
 TOKEN = ""
 GROUP_ID = 
