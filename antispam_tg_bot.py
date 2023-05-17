@@ -1,7 +1,6 @@
 import telebot
 
 TOKEN = ""
-GROUP_ID = 
 
 bot = telebot.TeleBot(TOKEN)
 
