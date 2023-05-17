@@ -1,0 +1,10 @@
+[Unit]
+Description=TelegramBot
+
+[Service]
+ExecStart=/usr/bin/python3 /___/tgbot_del.py
+Restart=always
+User=___
+
+[Install]
+WantedBy=multi-user.target
